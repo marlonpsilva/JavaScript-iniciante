@@ -1,0 +1,6 @@
+Mensagem do João no RH, esta é uma mensagem com mais de 100 caracteres para testar a extração de mensagens em JSON complexos.
+Mensagem da Maria no RH, esta também é uma mensagem com mais de 100 caracteres para testar a funcionalidade.
+Mensagem da Maria no RH, esta também é uma mensagem requestPayloadRecive com mais de 100 caracteres para testar a funcionalidade.
+Mensagem do Pedro na TI, essa mensagem possui mais de 100 caracteres e está aqui para fins de teste.
+Mensagem da Ana na TI, mais uma mensagem com mais de 100 caracteres para teste.
+Mensagem geral da empresa, esta é uma mensagem geral com mais de 100 caracteres.
